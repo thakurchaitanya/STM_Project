@@ -14,7 +14,7 @@ This project demonstrates basic GPIO output control on STM32.
 The LED is toggled using HAL_Delay inside the main loop.
 
 ## Code
-main.c
+- [main.c](main.c)
 
 ## Demo
 
